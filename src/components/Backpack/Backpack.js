@@ -6,15 +6,15 @@ const Backpack = ({ bodyColor, material, metalColor }) => {
   const glb = useLoader(GLTFLoader, "models/backpack.glb");
   const baseColor = useLoader(
     TextureLoader,
-    `textures/${material}_baseColor.jpg`
+    `textures/${material.toLowerCase()}_baseColor.jpg`
   );
   const normalMap = useLoader(
     TextureLoader,
-    `textures/${material}_normal.jpg`
+    `textures/${material.toLowerCase()}_normal.jpg`
   );
   const roughnessMap = useLoader(
     TextureLoader,
-    `textures/${material}_occlusionRoughnessMetallic.jpg`
+    `textures/${material.toLowerCase()}_occlusionRoughnessMetallic.jpg`
   );
 
   const metalTextureColor = useLoader(TextureLoader, metalColor);
