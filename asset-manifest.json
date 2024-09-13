@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7acbe809.css",
+    "main.js": "/static/js/main.25464523.js",
+    "static/media/material-symbols_view-in-ar-outline-rounded.svg": "/static/media/material-symbols_view-in-ar-outline-rounded.9c4c7575d1e576d0464b0a6108a6308a.svg",
+    "static/media/QR-code.svg": "/static/media/QR-code.a4999091f31d43f050a92c1e2182f425.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.6b09a9667e50914a2cc2b660576b6716.svg",
+    "index.html": "/index.html",
+    "main.7acbe809.css.map": "/static/css/main.7acbe809.css.map",
+    "main.25464523.js.map": "/static/js/main.25464523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acbe809.css",
+    "static/js/main.25464523.js"
+  ]
+}
