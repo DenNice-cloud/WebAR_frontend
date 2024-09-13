@@ -1,0 +1,41 @@
+.material {
+  &--title {
+    padding-bottom: 6px;
+  }
+
+  &--buttons {
+    border-top: 1px solid #1a1a1a;
+    width: 100%;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+    &__main {
+      margin-right: 10px;
+      margin-bottom: 10px;
+      width: 80px;
+      height: 36px;
+      border-radius: 25px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      background: none;
+      border: 1px solid black;
+      cursor: pointer;
+
+      &.active {
+        border-color: #4169e1;
+      }
+
+      &__text {
+        color: #1a1a1a;
+
+        &.active {
+          color: #4169e1;
+        }
+      }
+    }
+  }
+}

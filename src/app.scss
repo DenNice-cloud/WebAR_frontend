@@ -1,0 +1,17 @@
+.body {
+  display: flex;
+  justify-content: center;
+}
+
+.variety {
+  display: flex;
+  padding: 50px 20px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 80px;
+
+  position: absolute;
+  bottom: 0;
+
+  
+}
