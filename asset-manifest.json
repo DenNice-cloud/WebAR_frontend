@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/WebAR_frontend/static/css/main.7acbe809.css",
-    "main.js": "/WebAR_frontend/static/js/main.19eb0e02.js",
+    "main.js": "/WebAR_frontend/static/js/main.a43830ea.js",
     "static/media/material-symbols_view-in-ar-outline-rounded.svg": "/WebAR_frontend/static/media/material-symbols_view-in-ar-outline-rounded.9c4c7575d1e576d0464b0a6108a6308a.svg",
     "static/media/QR-code.svg": "/WebAR_frontend/static/media/QR-code.a4999091f31d43f050a92c1e2182f425.svg",
     "static/media/close-icon.svg": "/WebAR_frontend/static/media/close-icon.6b09a9667e50914a2cc2b660576b6716.svg",
     "index.html": "/WebAR_frontend/index.html",
     "main.7acbe809.css.map": "/WebAR_frontend/static/css/main.7acbe809.css.map",
-    "main.19eb0e02.js.map": "/WebAR_frontend/static/js/main.19eb0e02.js.map"
+    "main.a43830ea.js.map": "/WebAR_frontend/static/js/main.a43830ea.js.map"
   },
   "entrypoints": [
     "static/css/main.7acbe809.css",
-    "static/js/main.19eb0e02.js"
+    "static/js/main.a43830ea.js"
   ]
 }
