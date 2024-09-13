@@ -2,7 +2,9 @@
   "name": "webAR",
   "version": "1.0.0",
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@react-three/drei": "^8.0.0",
@@ -25,6 +27,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "sass": "^1.78.0"
   }
 }
