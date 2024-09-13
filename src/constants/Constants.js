@@ -5,9 +5,9 @@ export const bodyColors = {
 };
 
 export const metalColors = {
-  Silver: "/metal-color/silver.png",
-  Gold: "/metal-color/gold.png",
-  Black: "/metal-color/black.png",
+  Silver: "metal-color/silver.png",
+  Gold: "metal-color/gold.png",
+  Black: "metal-color/black.png",
 };
 export const materials = {
   Denim: "denim",
