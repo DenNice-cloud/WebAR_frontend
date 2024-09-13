@@ -1,6 +1,7 @@
 {
   "name": "webAR",
   "version": "1.0.0",
+  "homepage": "https://dennice-cloud.github.io/WebAR_frontend/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
